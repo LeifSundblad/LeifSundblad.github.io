@@ -1,0 +1,172 @@
+* {
+    vertical-align: top;
+}
+
+div{
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-family: helvetiva;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+h2 {
+    font-family: fira-sans;
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+#text-styles p {
+    font-family: baskerville;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+div#variants {
+    padding: 0px 15px;
+}
+
+div.main-colors {
+    padding: 5px 15px;
+}
+
+.main-colors div {
+    display: inline-block;
+    text-align: center;
+    width: 160px;
+}
+
+.color-label {
+    height: 30px;
+}
+
+.color-hex {
+    height: 30px;
+}
+
+div.coral {
+    background-color: #FF7F50;
+    color: black;
+}
+
+div.conifer {
+    background-color: #91E448;
+    color: black;
+}
+
+div.lochmara {
+    background-color: #3A78A4;
+    color: black;
+}
+
+div.variants {
+    display: inline-block;
+}
+
+div.variants div {
+    width: 160px;
+    height: 30px;
+}
+
+div.colors {
+    border: 3px solid gray;
+    width: 520px;
+    padding: 10px;
+}
+
+div.coral1 {
+    background-color: #ffb89e;
+}
+
+div.coral2 {
+    background-color: #ff9973;
+}
+
+div.coral3 {
+    background-color: #ed5d28;
+}
+
+div.coral4 {
+    background-color: #be3e0e;
+}
+
+div.conifer1 {
+    background-color: #C3F497;
+}
+
+div.conifer2 {
+    background-color: #A7EC6A;
+}
+
+div.conifer3 {
+    background-color: #76D423;
+}
+
+div.conifer4 {
+    background-color: #57A90D;
+}
+
+div.lochmara1 {
+    background-color: #8CB9D9;
+}
+
+div.lochmara2 {
+    background-color: #5C95BE;
+}
+
+div.lochmara3 {
+    background-color: #216798;
+}
+
+div.lochmara4 {
+    background-color: #104E7A;
+}
+
+.fonts #baskerville {
+    font-family: baskerville;
+    background-color: #ff9973;
+}
+
+.fonts #helvetica {
+    font-family: helvetica;
+    background-color: #C3F497;
+}
+
+.fonts #fira {
+    font-family: fira-sans;
+    background-color: #8CB9D9;
+}
+
+.fonts {
+    line-height: 70%;
+}
+
+div.fonts {
+    width: 520px;
+    border: 3px solid gray;
+    margin: 10px auto;
+    padding: 0px 10px;
+}
+
+.fonts div {
+    margin: 10px 0px;
+    padding: 5px 10px;
+}
+
+body {
+    display: inline-block;
+}
+#text-styles{
+    border: 3px solid gray;
+    padding: 10px;
+}
+#text-styles div {
+    vertical-align: top;
+    border: 3px solid gray;
+    display: inline-block;
+    height: 180px;
+    padding: 0px 7px;
+}
